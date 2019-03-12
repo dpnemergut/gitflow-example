@@ -1,4 +1,4 @@
-*.fits
-build/
-*.out
+# *.fits
+# build/
+# *.out
 
